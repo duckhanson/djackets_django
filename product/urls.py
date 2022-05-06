@@ -6,5 +6,5 @@ from django.urls import path, include
 from product import views
 
 urlpatterns = [
-    path('lastest-product/', views.LatestProductsList.as_view()),
+    path('lastest-products/', views.LatestProductsList.as_view()),
 ]
