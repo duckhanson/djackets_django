@@ -14,6 +14,12 @@ class LatestProductsList(APIView):
         serializer = ProductSerializer(products, many=True)
         return Response(serializer.data)
 
+class CategoryNames(APIView):
+    def get(self, request, format=None):
+        categories = Category.objects.all()
+        serializer = CategorySerializer(categories, many=True)
+        return Response(serializer.data)
+
 class ProductDetails(APIView):
     def get_object(self, request, category_slug, product_slug):
         try:
