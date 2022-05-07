@@ -31,6 +31,8 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:8080",
 ]
 
+STRIPE_SECRET_KEY = 'sk_test_51Kwv7RBPlNww8LwxTntLBZNrnuHzhP6pktjJWbJd7J1DHhwgIb3DtTnZ9KopzFbrzru3d3gA69CnTZmUWhHQom2f00zWjWUXnM'
+
 # Application definition
 
 INSTALLED_APPS = [
@@ -46,6 +48,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'djoser',
     'product',
+    'order'
 ]
 
 MIDDLEWARE = [
