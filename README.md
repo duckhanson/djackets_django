@@ -1,10 +1,10 @@
 # eCommerce-django-Shixianroastduck
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/duckhanson/djackets_django)
-![GitHub contributors](https://img.shields.io/github/contributors/duckhanson/djackets_django)
-![GitHub stars](https://img.shields.io/github/stars/duckhanson/djackets_django?style=social)
-![GitHub forks](https://img.shields.io/github/forks/duckhanson/djackets_django?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/duckhanson/sxrd_django)
+![GitHub contributors](https://img.shields.io/github/contributors/duckhanson/sxrd_django)
+![GitHub stars](https://img.shields.io/github/stars/duckhanson/sxrd_django?style=social)
+![GitHub forks](https://img.shields.io/github/forks/duckhanson/sxrd_django?style=social)
 
 This project is a eCommerce backend that addresses most of tasks from Shixianroastduck, a restaurant in Taiwan, to do stock management and order printing.
 
