@@ -24,7 +24,7 @@ Before you begin, ensure you have met the following requirements:
 
 * Every OS is supported.
 * You can create a [virtual environment](https://virtualenv.pypa.io/en/latest/) also.
-* Related project: [eCommerce-vue-Shixianroastduck](https://github.com/duckhanson/djackets_vue)
+* Related project: [eCommerce-vue-Shixianroastduck](https://github.com/duckhanson/eCommerce-vue-Shixianroastduck)
 
 ## Installing eCommerce-django-Shixianroastduck
 
